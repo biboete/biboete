@@ -12,6 +12,11 @@
 <img src="https://komarev.com/ghpvc/?username=biboete&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/biboete?label=Followers&style=for-the-badge&color=8E2DE2&labelColor=1a1b27" alt="followers" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20Source%20PRs-13-8E2DE2?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="open source prs" />
+<img src="https://img.shields.io/badge/Repos%20Contributed-12-A371F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="repos contributed" />
+
 </div>
 
 <!-- ════════════════ ABOUT ════════════════ -->
@@ -59,7 +64,7 @@ const biboete = {
 <!-- ════════════════ OPEN SOURCE ════════════════ -->
 ## 🌱 Open Source Contributions
 
-Genuine pull requests across the ecosystem — C# / .NET, TypeScript, and documentation fixes in projects big and small:
+**13 pull requests across 12 repositories** — C# / .NET, TypeScript, and documentation fixes in projects big and small:
 
 <div align="center">
 

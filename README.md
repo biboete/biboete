@@ -56,6 +56,32 @@ const biboete = {
 
 </div>
 
+<!-- ════════════════ OPEN SOURCE ════════════════ -->
+## 🌱 Open Source Contributions
+
+Genuine pull requests across the ecosystem — C# / .NET, TypeScript, and documentation fixes in projects big and small:
+
+<div align="center">
+
+| Project | Contribution | PR |
+|:--------|:-------------|:--:|
+| **dotnet/dotnet-api-docs** | Fixed `Complex.Zero` example & `IEnumerable<T>` remarks | [#12729](https://github.com/dotnet/dotnet-api-docs/pull/12729) · [#12730](https://github.com/dotnet/dotnet-api-docs/pull/12730) |
+| **mozilla/enterprise-admin-reference** | Docs fix in the Firefox enterprise policy reference | [#172](https://github.com/mozilla/enterprise-admin-reference/pull/172) |
+| **Cysharp/MagicOnion** | Corrected the Unary client code sample | [#1072](https://github.com/Cysharp/MagicOnion/pull/1072) |
+| **Effect-TS/effect-smol** | Fixed `Workflow.poll` / `WorkflowEngine.poll` JSDoc | [#2356](https://github.com/Effect-TS/effect-smol/pull/2356) |
+| **thejustinwalsh/three-flatland** | Corrected the `SpriteGroup.stats` JSDoc reference | [#122](https://github.com/thejustinwalsh/three-flatland/pull/122) |
+| **singular-labs/Singular-Unity-SDK** | Fixed `WebKit.framework` casing (iOS build bug) | [#43](https://github.com/singular-labs/Singular-Unity-SDK/pull/43) |
+| **Advaith3600/PowerToys-Run-Currency-Converter** | Updated a dead currency-list link | [#33](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter/pull/33) |
+| **the-csharp-academy/TCSA.V2026** | Fixed a broken project requirement | [#434](https://github.com/the-csharp-academy/TCSA.V2026/pull/434) |
+| **GDG-OnCampus-JSS/recruitment-platform-frontend** | Fixed a `NotFound404` constant typo | [#43](https://github.com/GDG-OnCampus-JSS/recruitment-platform-frontend/pull/43) |
+| **wess/rove** | Fixed the install command in the README | [#3](https://github.com/wess/rove/pull/3) |
+| **Natvs/Nt.Automaton** | Fixed docs: TOC anchor, C# comment syntax, grammar | [#14](https://github.com/Natvs/Nt.Automaton/pull/14) |
+| **almostengr/…EmailParser** | Fixed README typos in a published NuGet library | [#9](https://github.com/almostengr/Almostengr.CrimeMappingCom.EmailParser/pull/9) |
+
+</div>
+
+> 💜 Contributing to .NET, Mozilla, Cysharp, Effect, and more — one genuine fix at a time.
+
 <!-- ════════════════ STATS ════════════════ -->
 ## 📊 GitHub Stats
 

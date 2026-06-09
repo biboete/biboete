@@ -33,6 +33,23 @@ const biboete = {
 };
 ```
 
+<!-- ════════════════ FEATURED PROJECTS ════════════════ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/biboete/Bibo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=biboete&repo=Bibo&theme=radical&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=8e2de2" alt="Bibo" />
+</a>
+<a href="https://github.com/biboete/local-file-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=biboete&repo=local-file-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=a371f7&icon_color=8e2de2" alt="local-file-manager" />
+</a>
+
+</div>
+
+- **🎨 [Bibo](https://github.com/biboete/Bibo)** — a minimal Windows desktop wallpaper manager: static images **and** libVLC-powered live video wallpapers. &nbsp;`WPF` · `.NET 8` · `C#`
+- **🗂️ [local-file-manager](https://github.com/biboete/local-file-manager)** — an Electron desktop file manager to browse, edit, organize, and delete files across every drive, with an editorial, mac-style UI. &nbsp;`Electron` · `Node.js` · `JavaScript`
+
 <!-- ════════════════ TECH STACK ════════════════ -->
 ## 🛠️ Tech Stack
 
